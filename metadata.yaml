@@ -1,10 +1,14 @@
 _repo: The-Heart-of-the-Red-Firs_48644
+_version: 0.1.0
 contributor:
   illustrator:
     agent_name: Grunwald, Charles
     alias: Grünwald, Ch. (Charles)
     gutenberg_agent_id: '36252'
     url: http://www.gutenberg.org/2009/agents/36252
+covers:
+- cover_type: archival
+  image_path: 48644-h/images/img-cover.jpg
 creator:
   author:
     agent_name: Anderson, Ada Woodruff
@@ -13,6 +17,8 @@ creator:
     gutenberg_agent_id: '5010'
     url: http://www.gutenberg.org/2009/agents/5010
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/48644#The-Heart-of-the-Red-Firs
 gutenberg_issued: '2015-04-05'
 gutenberg_type: Text
 identifiers:
